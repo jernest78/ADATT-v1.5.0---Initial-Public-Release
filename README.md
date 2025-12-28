@@ -313,3 +313,74 @@ Visit: https://adatt.lemonsqueezy.com
 - Offline grace period: 30 days
 
 ---
+
+## 🤝 Support
+
+### Get Help
+
+- **Email**: adatt@unifosec.com
+- **Documentation**: https://adatt.lemonsqueezy.com/docs
+- **Issues**: GitHub Issues (bug reports and feature requests)
+
+### Response Times
+- Email support: Within 24-48 hours
+- Critical bugs: Priority response
+- Feature requests: Tracked for future releases
+
+---
+
+## 📝 Changelog
+
+### Version 1.4.1 (December 28, 2025)
+- ✨ Added "Open Reports" button for easy access
+- 🔧 Report location moved to C:\Temp\ADATT for visibility
+- 🐛 Fixed Write-Log function initialization order
+- 📧 Updated support email to adatt@unifosec.com
+- ⚡ Improved form closing behavior (smart confirmation)
+- 🔐 License key input now trims whitespace
+- 📊 Success messages now show report file location
+
+### Version 1.4.0 (December 2025)
+- 🎉 Initial public release
+- ✅ Single and bulk user termination
+- ✅ MFA reset and session management
+- ✅ Hybrid AD + Entra ID support
+- ✅ Comprehensive audit logging
+- ✅ License system with trial period
+
+---
+
+## ⚖️ License
+
+**Commercial Software**  
+Copyright © 2025 Jose Ernest / Unifosec
+
+This software is licensed for use as described in the End User License Agreement (EULA).  
+Unauthorized distribution, modification, or reverse engineering is prohibited.
+
+Purchase required after 14-day trial period.
+
+---
+
+## 🙏 Acknowledgments
+
+Built with:
+- PowerShell & Windows Forms
+- Microsoft Graph PowerShell SDK
+- Exchange Online Management Module
+- LemonSqueezy for licensing
+
+Special thanks to the IT admin community for feedback and feature requests.
+
+---
+
+## 🚀 Get Started
+
+1. **Download**: [Latest Release](../../releases/latest)
+2. **Try Free**: 14-day trial, all features unlocked
+3. **Purchase**: https://adatt.lemonsqueezy.com (use code **LAUNCH20** for 20% off)
+4. **Support**: adatt@unifosec.com
+
+---
+
+**Made with ❤️ for IT Professionals who deserve better tools**
